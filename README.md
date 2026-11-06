@@ -1,4 +1,4 @@
-# Team-14-AI-Coursework
+# Team 14's Intro to AI Coursework
 
 Team Members:
 - Adhvyait Shah, 240031985
